@@ -1,1 +1,2 @@
-This is a directory file in the alx-pre_course repository
+This is a change I will be making on the git GUI
+

@@ -1,2 +1,1 @@
-# alx-pre_course
-My first readme
+THis file is containing details for alx-pre_cousrse
